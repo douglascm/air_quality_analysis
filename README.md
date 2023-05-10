@@ -8,31 +8,31 @@ The overall goal of this assignment is to explore the National Emissions Invento
 Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 [Code](plot_1.R)
-![Screenshot](plot_1.PNG)
+![Screenshot](plot1.PNG)
 
 ### Have total emissions from PM2.5 decreased in the Baltimore City, Maryland ( fips == "24510" fips == "24510") from 1999 to 2008? 
 Use the base plotting system to make a plot answering this question.
 
 [Code](plot_2.R)
-![Screenshot](plot_2.PNG)
+![Screenshot](plot2.PNG)
 
 ### Of the four types of sources indicated by the type type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999--2008 for Baltimore City? Which have seen increases in emissions from 1999--2008? 
 Use the ggplot2 plotting system to make a plot answer this question.
 
 [Code](plot_3.R)
-![Screenshot](plot_3.PNG)
+![Screenshot](plot3.PNG)
 
 ### Across the United States, how have emissions from coal combustion-related sources changed from 1999--2008?
 
 [Code](plot_4.R)
-![Screenshot](plot_4.PNG)
+![Screenshot](plot4.PNG)
 
 ### How have emissions from motor vehicle sources changed from 1999--2008 in Baltimore City?
 
 [Code](plot_5.R)
-![Screenshot](plot_5.PNG)
+![Screenshot](plot5.PNG)
 
 ### Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037" fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 [Code](plot_6.R)
-![Screenshot](plot_6.PNG)
+![Screenshot](plot6.PNG)
